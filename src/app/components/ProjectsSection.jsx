@@ -30,7 +30,7 @@ const projectsData = [
     image: "/images/projects/uncommon.png",
     tag: ["All", "ReactJS"],
     gitUrl: "https://github.com/tondekawere/uncommon",
-    previewUrl: "https://uncommon.vercel.app",
+    previewUrl: "https://uncommon-alpha.vercel.app/",
   },
   {
     id: 4,

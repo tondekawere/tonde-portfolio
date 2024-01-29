@@ -46,7 +46,7 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <Link
-              href="/"
+              href="https://www.canva.com/design/DAF6_J27pD8/KixRqKqTlcUEv92ca-bieQ/edit?utm_content=DAF6_J27pD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-cyan-900 to-slate-500 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
