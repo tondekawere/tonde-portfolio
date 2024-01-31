@@ -7,7 +7,7 @@ import Link from "next/link";
 
 const HeroSection = () => {
   return (
-    <section className="lg:py-16 h-[100vh] relative md:h-[50vh] xl:h-[unset]">
+    <section className="lg:py-16 h-[100vh] relative md:h-[50vh] xl:h-[100vh]">
       <div className="grid grid-cols-1 sm:grid-cols-12">
         <motion.div
           initial={{ opacity: 0, scale: 0.5 }}
@@ -25,8 +25,6 @@ const HeroSection = () => {
                 "Tonderai Kawere",
                 1000,
                 "A Web Developer",
-                1000,
-                "A UI/UX Designer",
                 1000,
               ]}
               wrapper="span"
